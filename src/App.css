@@ -1,0 +1,52 @@
+.con-introduce {
+    margin: 100px;
+    margin-left: 680px;
+    font-size: 30px;
+}
+
+.con-introduce-chude {
+    margin-left: 25px;
+}
+hr{
+    margin-right: 180px;
+    border-width: 3px;
+}
+
+img {
+    margin-left: 250px;
+    position: absolute;
+    top: 120px;
+    border-radius: 50%;
+    height: 250px;
+    padding: 4px;
+    width: 250px;
+    background: hsl(240, 51%, 53%);
+}
+
+.con-info {
+    margin-left: 310px;
+    position: absolute;
+    top: 400px;
+}
+
+.con-con-info {
+    margin-left: 50px;
+}
+
+.col-wrap {
+    width: 500px;
+    display: table;
+    border-width: 2px;
+    background: rgb(196, 196, 177);
+}
+
+.col {
+    display: table-cell;
+    border: 1px solid white;
+    border-width: 5px;
+}
+.con-content {
+    margin-left: 650px;
+    position: absolute;
+    top: 250px;
+}
